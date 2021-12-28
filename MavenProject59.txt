@@ -1,3 +1,4 @@
 MavenProject
 1).To Watch all the videos related to maven
 2).To note down all important lines
+3) to practice all the methods
